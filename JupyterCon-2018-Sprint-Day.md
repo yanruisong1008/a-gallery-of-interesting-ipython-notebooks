@@ -9,4 +9,4 @@ Projects leaders coordinate the work on a project, help contributors, and sugges
   - Jason Grout  ( @jasongrout : Bloomberg, working on widgets, notebook, and JupyterLab)
   - Kyle Kelley ( @rgbkrk: Netflix, working on nteract, Hydrogen, notebook format, Jupyter protocols)
 
-Feel free to send pull request to add material to this wiki of the [community-day-20018 github repo](https://github.com/jupytercon/community-day-2018)
+Feel free to send pull request to add material to this wiki of the [community-day-2018 github repo](https://github.com/jupytercon/community-day-2018)
