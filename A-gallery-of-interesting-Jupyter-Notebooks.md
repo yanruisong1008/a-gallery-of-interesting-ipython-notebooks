@@ -680,6 +680,10 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [HyperTools: A Python toolbox for visualizing and manipulating high-dimensional data](https://arxiv.org/abs/1701.08290), stat.OT ArXiV preprint by Heusser et al. A [repo with companion notebooks](https://github.com/ContextLab/hypertools-paper-notebooks) is available, that links to [the library itself, HyperTools](https://github.com/ContextLab/hypertools).
 
+1. [Nonsinusoidal beta oscillations reflect cortical pathophysiology in Parkinson's disease](http://www.jneurosci.org/content/early/2017/05/02/JNEUROSCI.2208-16.2017), in Journal of Neuroscience by Cole et al. A [repo with companion notebooks](https://github.com/voytekresearch/Cole_2017) with all necessary data is available to reproduce all figures.
+
+1. [Cycle-by-cycle analysis of neural oscillations](https://www.biorxiv.org/content/early/2018/04/16/302000), in bioRxiv by Cole & Voytek. A [repo with companion notebooks](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with all necessary data is available to reproduce all figures. This repo also links to [the related useful library, neurodsp](https://github.com/voytekresearch/neurodsp), which contains notebooks of tutorials.
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
