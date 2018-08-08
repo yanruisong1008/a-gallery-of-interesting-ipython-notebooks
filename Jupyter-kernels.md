@@ -112,7 +112,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Isbt](https://github.com/ktr-skmt/Isbt)|Jupyter 4.3.0|sbt >= 1.0.0|sbt|[example](https://github.com/ktr-skmt/Isbt/blob/master/examples/isbt_examples.ipynb)||
 |[BeakerX](http://beakerx.com/)|||Groovy, Java, Scala, Clojure, Kotlin, SQL|[example](https://github.com/twosigma/beakerx/blob/master/doc/StartHere.ipynb)|[docker image](https://hub.docker.com/r/beakerx/beakerx/)|
 |[MicroPython](https://github.com/goatchurchprime/jupyter_micropython_kernel/)|Jupyter|ESP8266/ESP32|USB or Webrepl|[developer notebooks](https://github.com/goatchurchprime/jupyter_micropython_developer_notebooks)|relies on the micro-controller's paste-mode|
-|[IJava](https://github.com/SpencerPark/IJava)|Jupyter|Java 9|Java **JDK** >= 9|[Binder online demo](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master?filepath=%2Fhome%2Fjovyan%2FHelloWorld.ipynb)|Based on the new JShell tool|
+|[IJava](https://github.com/SpencerPark/IJava)|Jupyter|Java 9|Java **JDK** >= 9|[Binder online demo](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master)|Based on the new JShell tool|
 |[Guile](https://github.com/jerry40/guile-kernel)|Jupyter 5.2|Guile 2.0.12|[guile-json](https://github.com/aconchillo/guile-json), openssl|||
 |[circuitpython_kernel](https://github.com/adafruit/circuitpython_kernel)|Jupyter|[CircuitPython](https://github.com/adafruit/circuitpython)|USB| [Examples](https://github.com/adafruit/circuitpython_kernel/tree/master/examples)| 
 |[iPyStata](https://github.com/TiesdeKok/ipystata)|Jupyter|Stata|Stata| [Example Notebook](http://nbviewer.jupyter.org/github/TiesdeKok/ipystata/blob/master/ipystata/Example.ipynb)| Implemented using magics machinery of ipython. |
