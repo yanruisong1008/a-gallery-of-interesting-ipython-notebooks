@@ -117,6 +117,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[circuitpython_kernel](https://github.com/adafruit/circuitpython_kernel)|Jupyter|[CircuitPython](https://github.com/adafruit/circuitpython)|USB| [Examples](https://github.com/adafruit/circuitpython_kernel/tree/master/examples)| 
 |[stata_kernel](https://github.com/kylebarron/stata_kernel)|Jupyter >=5|Stata|Stata >=14| | Communicates natively with Stata| 
 |[iPyStata](https://github.com/TiesdeKok/ipystata)|Jupyter|Stata|Stata| [Example Notebook](http://nbviewer.jupyter.org/github/TiesdeKok/ipystata/blob/master/ipystata/Example.ipynb)| Implemented using magics machinery of ipython. |
+|[IRacket](https://github.com/rmculpepper/iracket)|IPython >= 3|Racket >= 6.10|Racket, ZeroMQ|[Example](https://github.com/rmculpepper/iracket/blob/master/examples/getting-started.ipynb)||
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
