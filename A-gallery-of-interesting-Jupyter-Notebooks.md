@@ -204,6 +204,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [seismo-live](http://seismo-live.org/) is a collection of live Jupyter notebooks for seismology. It includes a fairly large number of notebooks on how to solve the acoustic and elastic wave equation with various different numerical methods. Additionally it contains notebooks with an extensive introduction to data handling and signal processing in seismology, and notebooks tackling ambient seismic noise, rotational and glacial seismology, and more.
 
+* [Geo-Python](https://geo-python.github.io/) is an introduction to programming in Python for Bachelors and Masters students in geo-fields (geology, geophysics, geography) taught by members of the [Department of Geosciences and Geography at University of Helsinki, Finland](https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography). Course lessons and exercises are based on Jupyter notebooks and open for use by any interested person.
+
 
 ### Linguistics and Text Mining
 
