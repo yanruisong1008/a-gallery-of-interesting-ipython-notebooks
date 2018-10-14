@@ -82,7 +82,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[xeus-cling](https://github.com/QuantStack/xeus-cling)|Jupyter >= 5.1|C++||[Example](https://github.com/QuantStack/xeus-cling/tree/master/notebooks)|Supports Jupyter widgets|
 |[Xonsh](https://github.com/calysto/xonsh_kernel)||Xonsh||[Example](http://nbviewer.ipython.org/github/Calysto/xonsh_kernel/blob/master/xonsh_kernel.ipynb)|MetaKernel|
 |[Prolog](https://github.com/Calysto/calysto_prolog)||Prolog|||MetaKernel|
-|[SWI-Prolog](https://github.com/Calysto/calysto_prolog)|Jupyter >=4.0 |SWI-Prolog|||https://hub.docker.com/r/jm1337/jupyter-prolog-notebook/|
+|[SWI-Prolog](github.com/madmax2012/SWI-Prolog-Kernel)|Jupyter >=4.0 |SWI-Prolog|||https://hub.docker.com/r/jm1337/jupyter-prolog-notebook/|
 |[cl-jupyter](https://github.com/fredokun/cl-jupyter)|Jupyter|Common Lisp|Quicklisp|[About](https://github.com/fredokun/cl-jupyter/blob/master/about-cl-jupyter.ipynb)||
 |[Maxima-Jupyter](https://github.com/robert-dodier/maxima-jupyter)|Jupyter|Maxima|Quicklisp|||
 |[Calysto LC3](https://github.com/Calysto/calysto_lc3)|||||Assembly Language for the [Little Computer 3](https://en.wikipedia.org/wiki/LC-3)|
