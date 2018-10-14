@@ -122,6 +122,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel)|Jupyter >= 4.0|dot/graphviz|graphviz version 2.40.1| | | |
 |[Teradata SQL kernel and extensions](https://teradata.github.io/jupyterextensions/)|JupyterLab >= 0.34|SQL| ZeroMQ |[Example Notebooks](https://github.com/Teradata/jupyterextensions/tree/master/notebooks) | | |
 |[HiveQL Kernel](https://github.com/EDS-APHP/HiveQLKernel)|Jupyter >= 5|[HiveQL](https://en.wikipedia.org/wiki/Apache_Hive)| [pyhive](https://github.com/dropbox/PyHive) | | Display HiveQL queries in HTML tables |
+|[EvCxR Jupyter Kernel](https://github.com/google/evcxr/tree/master/evcxr_jupyter)|Jupyter 4, JupyterLab, nteract|Rust >= 1.29.2|ZeroMQ 4.x.x|[Examples](https://github.com/google/evcxr/tree/master/evcxr_jupyter/samples), [Binder online demo](https://mybinder.org/v2/gh/google/evcxr/master?filepath=evcxr_jupyter%2Fsamples%2Fevcxr_jupyter_tour.ipynb)| |
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
