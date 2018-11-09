@@ -64,6 +64,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Lua Kernel](https://github.com/neomantra/lua_ipython_kernel)||Lua||||
 |[IPurescript](https://github.com/Eoksni/ipurescript)||Purescript||||
 |[IPyLua](https://github.com/pakozm/IPyLua)||Lua|||Fork of *Lua Kernel*|
+|[ILua](https://github.com/guysv/ilua)||Lua||||
 |[Calysto Scheme](https://github.com/Calysto/calysto_scheme)||Scheme||[Reference Guide](https://github.com/Calysto/calysto_scheme/blob/master/notebooks/Reference%20Guide%20for%20Calysto%20Scheme.ipynb)|MetaKernel|
 |[Calysto Processing](https://github.com/Calysto/calysto_processing)||Processing.js >= 2|||MetaKernel|
 |[idl_kernel](https://github.com/lstagner/idl_kernel)||IDL|||IDL seem to have a [built-in kernel](http://www.exelisvis.com/docs/idl_kernel.html) starting with version 8.5|
