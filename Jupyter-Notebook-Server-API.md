@@ -6,9 +6,21 @@ We are in the process of creating a new dashboard architecture for the Jupyter n
 
 The schema is [here](https://github.com/jupyter/notebook/blob/master/notebook/services/api/api.yaml), rendered nicely [here](http://petstore.swagger.io/?url=https://raw.githubusercontent.com/jupyter/notebook/master/notebook/services/api/api.yaml).
 
+## Table of contents
+
+- [Current Architecture](#current-architecture)
+  - [Miscellaneous](#miscellaneous)
+  - [Notebook and file contents API](#Notebook-and-file-contents-API)
+  - [Kernel API](#Kernel-API)
+  - [Kernelspecs API](#Kernelspecs-API)
+  - [Sessions API](#Sessions-API)
+  - [Clusters API](#Clusters-API)
+
+- [Old Architecture](#old-architecture)
+
 ## Current Architecture ##
 
-Miscellaneous
+### Miscellaneous
 
 | HTTP verb | URL | Action |
 |:---:|:---:|:---|
@@ -17,7 +29,7 @@ Miscellaneous
 | ```*``` | /api/notebooks | Deprecated: redirect to /api/contents |
 | ```GET``` | /api/nbconvert | |
 
-## Notebook and file contents API
+### Notebook and file contents API
 
 | HTTP verb | URL | Action |
 |:---:|:---:|:---|
@@ -33,7 +45,7 @@ Miscellaneous
 | ```POST``` | /api/contents<br>/\<path\>/\<file\><br>/checkpoints/\<checkpoint_id\> | post restores a file from a checkpoint. |
 | ```DELETE``` | /api/contents<br>/\<path\>/\<file\><br>/checkpoints/\<checkpoint_id\> | delete clears a checkpoint for a given file. |
 
-## Kernel API
+### Kernel API
 
 | HTTP verb | URI | Action |
 |:---:|:---:|:---|
@@ -44,14 +56,14 @@ Miscellaneous
 | ```POST``` | /api/kernels<br>/\<kernel_id\>/\<action\> | Perform action on kernel with given kernel id. Actions can be "interrupt" or "restart". |
 | ```WS``` | /api/kernels<br>/\<kernel_id\>/channels | Websocket stream |
 
-## Kernelspecs API
+### Kernelspecs API
 
 | HTTP verb | URI | Action |
 |:---:|:---:|:---|
 | ```GET``` | /api/kernelspecs | Return a spec model of all available kernels. |
 | ```GET``` | /api/kernelspecs<br>/\<kernel_name\> | Return a spec model of available kernels with given kernel name. |
 
-## Sessions API
+### Sessions API
 
 | HTTP verb | URL | Action |
 |:---:|:---:|:---|
@@ -61,7 +73,7 @@ Miscellaneous
 | ```PATCH``` | /api/sessions<br>/\<session_id\> | Change notebook name or path of session with given session id. |
 | ```DELETE``` | /api/sessions<br>/\<session_id\> | Delete active session with given session id. |
 
-## Clusters API
+### Clusters API
 
 | HTTP verb | URL | Action |
 |:---:|:---:|:---|
@@ -69,7 +81,7 @@ Miscellaneous
 | ```GET``` | /api/clusters<br>/\<cluster_id\> | Return model of given cluster. |
 | ```POST``` | /api/clusters<br>/\<cluster_id\>/\<action\> | Perform action with given clusters. Valid actions are "start" or "stop" |
 
-### Old Architecture
+## Old Architecture ##
 
 This chart shows the web-services in the single directory Jupyter notebook. 
 
