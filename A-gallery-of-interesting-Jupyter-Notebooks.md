@@ -239,7 +239,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Algorithms in IPython notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks), by [Sebastian Raschka](https://github.com/rasbt)
 
-* [Comparing the performance of Python compilers - Cython vs. Numba vs. Parakeet](_nbs/day4_2_cython_numba_parakeet.ipynb?create=1), by [Sebastian Raschka](https://github.com/rasbt)
+* [Comparing the performance of Python compilers - Cython vs. Numba vs. Parakeet](http://nbviewer.jupyter.org/github/rasbt/One-Python-benchmark-per-day/blob/master/ipython_nbs/day4_2_cython_numba_parakeet.ipynb), by [Sebastian Raschka](https://github.com/rasbt)
 
 * [A Crash Course in Python for Scientists](http://nbviewer.ipython.org/gist/5920182), by Sandia's [Rick Muller](http://www.cs.sandia.gov/~rmuller).
 
