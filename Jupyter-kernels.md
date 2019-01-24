@@ -28,7 +28,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Gophernotes](https://github.com/gopherdata/gophernotes)|Jupyter 4, JupyterLab, nteract|Go >= 1.9|ZeroMQ 4.x.x|[examples](https://github.com/gopherdata/gophernotes/tree/master/examples)|[docker image](https://hub.docker.com/r/dwhitena/gophernotes/)|
 |[IGo](https://github.com/takluyver/igo)||Go >= 1.4|||Unmaintained, use gophernotes|
 |[IScala](https://github.com/mattpap/IScala)||Scala||||
-|[almond (old name: Jupyter-scala)](https://github.com/almond-sh/almond)|IPython>=3.0|Scala>=2.10||[examples](https://github.com/almond-sh/examples)| [Docs](http://almond-sh.github.io/almond/stable/docs/intro)|
+|[almond (old name: Jupyter-scala)](https://github.com/almond-sh/almond)|IPython>=3.0|Scala>=2.10||[examples](https://github.com/almond-sh/examples)| [Docs](https://almond.sh)|
 |[IErlang](https://github.com/robbielynch/ierlang)|IPython 2.3|Erlang|rebar|||
 |[ITorch](https://github.com/facebook/iTorch)|IPython >= 2.2 and <= 5.x |Torch 7 (LuaJIT)||||
 |[IElixir](https://github.com/pprzetacznik/IElixir)|Jupyter >= 4.0|Elixir >= 1.5|Erlang OTP >= 19.3, Rebar|[example](https://github.com/pprzetacznik/IElixir/blob/master/resources/example.ipynb), [Boyle package manager examples](https://github.com/pprzetacznik/IElixir/blob/master/resources/boyle%20example.ipynb), [Boyle examples with usage of Matrex library](https://github.com/pprzetacznik/IElixir/blob/master/resources/boyle%20example%20-%20matrex%20installation%20and%20usage.ipynb)|[IElixir Docker image](https://hub.docker.com/r/pprzetacznik/ielixir/), [IElixir Notebook in Docker](https://mattvonrocketstein.github.io/heredoc/ielixir-notebook-in-docker.html#sf-ielixir-notebook-in-docker-2-back)|
