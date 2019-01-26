@@ -55,7 +55,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * The code of the [IPython mini-book](https://github.com/rossant/ipython-minibook) by C. Rossant, introducing IPython, NumPy, SciPy, Pandas and matplotlib for interactive computing and data visualization.
 
-* [Python Tutorial](https://github.com/rajathkumarmp/Python-Lectures) by [Rajath Kumar M P](https://github.com/rajathkumarmp) 
+* [Python Tutorial](https://github.com/rajathkmp/Python-Lectures) by [Rajath Kumar M P](https://github.com/rajathkmp/) 
 
 ### Programming and Computer Science
 
