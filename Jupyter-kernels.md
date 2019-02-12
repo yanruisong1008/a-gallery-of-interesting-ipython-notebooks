@@ -85,6 +85,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Prolog](https://github.com/Calysto/calysto_prolog)||Prolog|||MetaKernel|
 |[SWI-Prolog](https://github.com/madmax2012/SWI-Prolog-Kernel)|Jupyter >=4.0 |SWI-Prolog|||https://hub.docker.com/r/jm1337/jupyter-prolog-notebook/|
 |[cl-jupyter](https://github.com/fredokun/cl-jupyter)|Jupyter|Common Lisp|Quicklisp|[About](https://github.com/fredokun/cl-jupyter/blob/master/about-cl-jupyter.ipynb)||
+|[common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter)|Jupyter|Common Lisp|Quicklisp|[About](https://github.com/fredokun/cl-jupyter/blob/master/examples/about.ipynb)||
 |[Maxima-Jupyter](https://github.com/robert-dodier/maxima-jupyter)|Jupyter|Maxima|Quicklisp|||
 |[Calysto LC3](https://github.com/Calysto/calysto_lc3)|||||Assembly Language for the [Little Computer 3](https://en.wikipedia.org/wiki/LC-3)|
 |[Yacas](https://github.com/grzegorzmazur/yacas_kernel)||YACAS||||
