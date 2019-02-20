@@ -213,7 +213,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Detecting Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb), part of the [Data Hacking](http://clicksecurity.github.io/data_hacking) collection on security-oriented data analysis with IPython & friends.
 
-* [Mining the Social Web (2nd Edition)](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition). A complete collection of notebooks accompanying [Matthew Russel's book](http://shop.oreilly.com/product/0636920030195.do) by O'Reilly.
+* [Mining the Social Web (3rd Edition)](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition). A complete collection of notebooks accompanying [Matthew Russell and Mikhail Klassen's book](http://shop.oreilly.com/product/0636920056751.do) by O'Reilly.
 
 ### Signal Processing
 
