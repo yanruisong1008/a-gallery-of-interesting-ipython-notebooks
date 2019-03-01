@@ -77,6 +77,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Jupyter notebook activities for Part IA of the computing course (Michaelmas Term) in the Engineering Tripos at University of Cambridge](https://notebooks.azure.com/library/CUED-IA-Computing-Michaelmas), by [Garth Wells](http://www3.eng.cam.ac.uk/~gnw20/).
 
+* [Introduction to Python for Computational Science and Engineering](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/master/Readme.md) ([Hans Fangohr](https://fangohr.github.io)): Textbook for beginners, broken into one Jupyter Notebook per chapter. Can be [executed and interacted with online](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/master?filepath=index.ipynb) using Binder.
+
 ### Statistics, Machine Learning and Data Science
 
 * [An introductory notebook on uncertainty quantification and sensitivity analysis](http://nbviewer.jupyter.org/github/lrhgit/uqsa_tutorials/blob/master/index.ipynb) developed for the [Workshop On Uncertainty Quantification And Sensitivity Analysis For
