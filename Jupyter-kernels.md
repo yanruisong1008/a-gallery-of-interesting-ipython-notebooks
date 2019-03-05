@@ -128,6 +128,8 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[StuPyd Kernel](https://github.com/StuPyd/demo-kernel)|Jupyter >= 4|[StuPyd Programming Language](https://github.com/StuPyd/stupyd-lang)|Python3, antlr4-python3-runtime >= 4.7.1|[nbviewer demo](https://nbviewer.jupyter.org/github/StuPyd/demo-kernel/blob/master/test.ipynb)||
 |[coq_jupyter](https://github.com/EugeneLoy/coq_jupyter)|Jupyter 5|Coq|coq|[Binder online demo](https://mybinder.org/v2/gh/EugeneLoy/coq_jupyter_demo/master?filepath=demo.ipynb)||
 |[Cadabra2](https://github.com/kpeeters/cadabra2/blob/master/JUPYTER.rst)|Jupyter 5|[Cadabra2](https://cadabra.science)||[Example notebook](https://github.com/kpeeters/cadabra2/blob/master/examples/schwarzschild.ipynb)||
+|[iMongo](https://github.com/gusutabopb/imongo)||MongoDB||||
+
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
