@@ -129,6 +129,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[coq_jupyter](https://github.com/EugeneLoy/coq_jupyter)|Jupyter 5|Coq|coq|[Binder online demo](https://mybinder.org/v2/gh/EugeneLoy/coq_jupyter_demo/master?filepath=demo.ipynb)||
 |[Cadabra2](https://github.com/kpeeters/cadabra2/blob/master/JUPYTER.rst)|Jupyter 5|[Cadabra2](https://cadabra.science)||[Example notebook](https://github.com/kpeeters/cadabra2/blob/master/examples/schwarzschild.ipynb)||
 |[iMongo](https://github.com/gusutabopb/imongo)||MongoDB||||
+|[jupyter_kernel_chapel](http://github.com/krishnadey30/jupyter_kernel_chapel)|Jupyter|[Chapel](https://github.com/chapel-lang/chapel/)||||
 
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
