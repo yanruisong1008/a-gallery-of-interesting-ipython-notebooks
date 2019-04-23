@@ -132,6 +132,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[jupyter_kernel_chapel](http://github.com/krishnadey30/jupyter_kernel_chapel)|Jupyter|[Chapel](https://github.com/chapel-lang/chapel/)||||
 |[A Jupyter kernel for Vim script](https://github.com/mattn/vim_kernel)|Jupyter|[Vim script](https://github.com/vim/vim/)||||
 |[Jupyter dot kernel](https://github.com/laixintao/jupyter-dot-kernel/)||graphviz/dot files|graphviz|||
+|[SSH Kernel](https://github.com/NII-cloud-operation/sshkernel)|Jupyter|Bash|paramiko, metakernel|[Examples](https://github.com/NII-cloud-operation/sshkernel/tree/master/examples)|A Jupyter kernel specialized in executing commands remotely with paramiko SSH client.|
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
