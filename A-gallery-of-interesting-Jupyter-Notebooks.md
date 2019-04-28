@@ -168,7 +168,13 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [AeroPython: Aerodynamics-Hydrodynamics with Python](https://github.com/barbagroup/AeroPython), a complete course taught at George Washington University by [Lorena Barba](http://lorenabarba.com).
 
-* [Practical Numerical Methods with Python](https://github.com/numerical-mooc/numerical-mooc), a collection of learning modules (each consisting of several IPython Notebooks) for a course in numerical differential equations  taught  at George Washington University by [Lorena Barba](http://lorenabarba.com). Also offered as a "massive, open online course" (MOOC) on the [GW SEAS Open edX](http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about) platform.
+* [Practical Numerical Methods with Python](https://github.com/numerical-mooc/numerical-mooc), a collection of learning modules (each consisting of several IPython Notebooks) for a course in numerical differential equations  taught  at George Washington University by [Lorena Barba](http://lorenabarba.com). Also offered as a "massive, open online course" (MOOC) on the [GW SEAS Open edX](http://openedx.seas.gwu.edu/) platform.
+
+* [Get Data Off the Ground with Python](https://github.com/engineersCode/EngComp1_offtheground) by [Lorena Barba](http://lorenabarba.com): Learn to interact with Python and handle data with Python; assumes no coding experience and creates a foundation in programming applied to technical contexts. With an accompanying [online course](http://go.gwu.edu/engcomp1).
+
+* [Take Off with Stats in Python](https://github.com/engineersCode/EngComp2_takeoff) by [Lorena Barba](http://lorenabarba.com): Hands-on data analysis using a computational approach and real-life applications. With an accompanying [online course](http://go.gwu.edu/engcomp2).
+
+* [Tour the dynamics of change and motion](https://github.com/engineersCode/EngComp3_tourdynamics) by [Lorena Barba](http://lorenabarba.com): Tour of the dynamics of change and motion using computational thinking with Python. With an accompanying [online course](http://go.gwu.edu/engcomp3).
 
 * [pyuvvis: tools for explorative spectroscopy](https://github.com/hugadams/pyuvvis), spectroscopy library built for integration ipython notebooks, matplotlib and pandas.
 
