@@ -694,6 +694,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [Cycle-by-cycle analysis of neural oscillations](https://www.biorxiv.org/content/early/2018/04/16/302000), in bioRxiv by Cole & Voytek. A [repo with companion notebooks](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with all necessary data is available to reproduce all figures. This repo also links to [the related useful library, neurodsp](https://github.com/voytekresearch/neurodsp), which contains notebooks of tutorials.
 
+1. [pyKNEEr: An image analysis workflow for open and reproducible research on femoral knee cartilage](https://www.biorxiv.org/content/biorxiv/early/2019/05/04/556423.full.pdf), a preprint by S. Bonaretti et al. Jupyter notebooks are used as a graphical user interface for medical image processing and analysis. The paper is interactive, with links to data, software, and documentation throughout the text. Every figure caption contains links to fully reproduce graphs.
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
