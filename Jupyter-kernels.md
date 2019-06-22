@@ -72,7 +72,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Lua (used in Splash)](https://github.com/scrapinghub/splash/tree/master/splash/kernel)||Lua||||
 |[Apache Toree (formerly Spark Kernel)](https://github.com/apache/incubator-toree)|Jupyter|Scala, Python, R|Spark >= 1.5|[Example](https://github.com/apache/incubator-toree/blob/master/etc/examples/notebooks/magic-tutorial.ipynb)||
 |[Skulpt Python Kernel](https://github.com/Calysto/skulpt_python)||Skulpt Python||[Examples](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Examples/Skulpt%20Python%20Examples.ipynb)|MetaKernel|
-|[MetaKernel Bash](https://github.com/Calysto/metakernel/tree/master/metakernel_bash)||bash|||MetaKernel|
+|[Calysto Bash](https://github.com/Calysto/calysto_bash)||bash|||MetaKernel|
 |[MetaKernel Python](https://github.com/Calysto/metakernel/tree/master/metakernel_python)||python|||MetaKernel|
 |[IVisual](https://pypi.python.org/pypi/IVisual)||VPython||[Ball-in-Box](http://nbviewer.jupyter.org/url/dl.dropboxusercontent.com/u/5095342/visual/Ball-in-Box.ipynb)||
 |[IBrainfuck](https://github.com/robbielynch/ibrainfuck)||Brainfuck||[Demo](http://nbviewer.jupyter.org/gist/robbielynch/e611442ca2d056f3b78f)|Wrapper|
