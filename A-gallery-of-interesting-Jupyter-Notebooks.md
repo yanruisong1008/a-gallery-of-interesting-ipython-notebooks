@@ -484,7 +484,7 @@ Note that in the 'collections' section above there are also pandas-related links
 
 * [A 10-minute whirlwind tour of pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb), this is the notebook accompanying a [video presentation](http://vimeo.com/59324550) by Wes McKinney, author of Pandas and the [Python for Data Analysis](http://www.amazon.com/Python-Data-Analysis-Wes-McKinney/dp/1449319793) book.
 
-* [Manipulating the data with Pandas using Python](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Manipulating_the_data_with_Pandas_using_Python.ipynb), this notebook explain various operations and methods of Pandas library from the scratch with the help of an example, by [Tanu Nandas Prabhu](https://github.com/Tanu-N-Prabhu).
+* [Manipulating the data with Pandas using Python](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Manipulating_the_data_with_Pandas_using_Python.ipynb), this notebook explains various operations and methods of Pandas library from the scratch with the help of an example, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
 
 * [Time-series analysis with Pandas](http://nbviewer.ipython.org/github/changhiskhan/talks/blob/master/pydata2012/pandas_timeseries.ipynb).
 
