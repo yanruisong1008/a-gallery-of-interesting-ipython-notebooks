@@ -482,6 +482,8 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 Note that in the 'collections' section above there are also pandas-related links, such as the one for an [11-lesson tutorial](https://bitbucket.org/hrojas/learn-pandas).
 
+* [Python Pandas DataFrame Basics](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Pandas_DataFrame.ipynb), this notebook explains the basic concepts of pandas data frame from scratch for beginners with examples, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
+
 * [A 10-minute whirlwind tour of pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb), this is the notebook accompanying a [video presentation](http://vimeo.com/59324550) by Wes McKinney, author of Pandas and the [Python for Data Analysis](http://www.amazon.com/Python-Data-Analysis-Wes-McKinney/dp/1449319793) book.
 
 * [Manipulating the data with Pandas using Python](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Manipulating_the_data_with_Pandas_using_Python.ipynb), this notebook explains various operations and methods of Pandas library from the scratch with the help of an example, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
@@ -502,7 +504,7 @@ Note that in the 'collections' section above there are also pandas-related links
 
 ## General Python Programming
 
-* [Python Lists from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Lists.ipynb), this notebook explains Python Lists from basic to advance level with the help of an examples, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
+* [Python Lists from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Lists.ipynb), this notebook explains Python Lists from basic to advance level with the help of an example, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
 
 * [Learning to code with Python](http://nbviewer.ipython.org/urls/bitbucket.org/amjoconn/watpy-learning-to-code-with-python/raw/3441274a54c7ff6ff3e37285aafcbbd8cb4774f0/notebook/Learn%20to%20Code%20with%20Python.ipynb), part of an [introduction to Python](https://bitbucket.org/amjoconn/watpy-learning-to-code-with-python/src) from the [Waterloo Python users group](http://watpy.ca/blog/post/learn-code-python-review-feb-2013).
 
