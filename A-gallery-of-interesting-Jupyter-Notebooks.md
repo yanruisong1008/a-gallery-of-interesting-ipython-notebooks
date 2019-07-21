@@ -87,7 +87,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook), a collection of notebooks by [Jake VanderPlas](http://vanderplas.com) to accompany the book.
 
-* [Data Cleaning using Python with Pandas Library](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Data_Cleaning.ipynb), a Date Science notebook which clearly explains Data Cleaning using Python with Pandas Library at a beginner level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
+* [Data Cleaning using Python with Pandas Library](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Data_Cleaning_using_Python_with_Pandas_Library.ipynb), a Date Science notebook which clearly explains Data Cleaning using Python with Pandas Library at a beginner level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
 
 * ["ISP": Introduction to Statistics with Python](https://github.com/thomas-haslwanter/statsintro_python), a collection of notebooks accompanying the [book of the same name](http://www.springer.com/us/book/9783319283159), by [Thomas Haslwanter](http://work.thaslwanter.at).
 
