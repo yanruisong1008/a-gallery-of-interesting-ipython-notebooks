@@ -79,7 +79,9 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Introduction to Python for Computational Science and Engineering](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/master/Readme.md) ([Hans Fangohr](https://fangohr.github.io)): Textbook for beginners, broken into one Jupyter Notebook per chapter. Can be [executed and interacted with online](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/master?filepath=index.ipynb) using Binder.
 
-### Statistics, Machine Learning and Data Science
+### Statistics, Machine Learning, and Data Science
+
+* [Web scraping using BeautifulSoup and Requests libraries on Rate My Professors Website] (https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Web_scraping_Rate_My_Professor.ipynb), a notebook which explains scraping the data from the internet from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science] (https://medium.com/@tanunprabhu95).
 
 * [An introductory notebook on uncertainty quantification and sensitivity analysis](http://nbviewer.jupyter.org/github/lrhgit/uqsa_tutorials/blob/master/index.ipynb) developed for the [Workshop On Uncertainty Quantification And Sensitivity Analysis For
 Cardiovascular Modeling](http://sathercenter.berkeley.edu/peder-sather-grant/2016-grantees/)
