@@ -156,6 +156,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [ETL with Python](https://github.com/dimgold/ETL_with_Python/blob/master/README.md), a tutorial for ETL (Extract, Transfer and Load) using python [petl package](https://petl.readthedocs.io/en/latest/), loading to MySQL and working with csv files by [Dima Goldenberg](https://github.com/dimgold).
 
+* [the-elements-of-statistical-learning](https://github.com/maitbayev/the-elements-of-statistical-learning), a collection of notebooks implementing the algorithms, reproducing the graphics found in the book "The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani and Jerome Friedman and summary of the textbook.
+
 ### Mathematics, Physics, Chemistry, Biology
 
 * A [single-atom laser model](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb). This is one of a complete set of [lectures on quantum mechanics and quantum optics using QuTiP](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures) by [J.R. Johansson](https://github.com/jrjohansson).
