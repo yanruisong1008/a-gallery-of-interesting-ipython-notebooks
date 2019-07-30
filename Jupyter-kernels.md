@@ -137,6 +137,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[GAP Kernel](https://gap-packages.github.io/JupyterKernel/)|Jupyter|GAP >= 4.10||[Binder demo](https://github.com/gap-system/try-gap-in-jupyter)|A Jupyter kernel for the computational algebra system [GAP](https://www.gap-system.org/).|
 |[Wolfram Language for Jupyter](https://github.com/WolframResearch/WolframLanguageForJupyter)|   | Wolfram Language >= 11.3 |  |  |A Jupyter kernel for the Wolfram Language (https://www.wolfram.com/language).|
 |[GrADS kernel](https://github.com/ykatsu111/jupyter-grads-kernel)|   | GrADS >= 2.0 |  |  |  |
+|[Bacatá](https://github.com/cwi-swat/bacata)| Jupyter  | Java & [Rascal](https://rascal-mpl.org) | ZeroMQ & Rascal | [Example](https://github.com/maveme/rascal-notebooks-examples) |  |
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
