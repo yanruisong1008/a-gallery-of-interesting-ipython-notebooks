@@ -135,7 +135,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Jupyter dot kernel](https://github.com/laixintao/jupyter-dot-kernel/)||graphviz/dot files|graphviz|||
 |[SSH Kernel](https://github.com/NII-cloud-operation/sshkernel)|Jupyter|Bash|paramiko, metakernel|[Examples](https://github.com/NII-cloud-operation/sshkernel/tree/master/examples)|A Jupyter kernel specialized in executing commands remotely with paramiko SSH client.|
 |[GAP Kernel](https://gap-packages.github.io/JupyterKernel/)|Jupyter|GAP >= 4.10||[Binder demo](https://github.com/gap-system/try-gap-in-jupyter)|A Jupyter kernel for the computational algebra system [GAP](https://www.gap-system.org/).|
-|[Wolfram Language for Jupyter](https://github.com/WolframResearch/WolframLanguageForJupyter)|   | Wolfram Language >= 11.3 |  |  |A Jupyter kernel for the Wolfram Language (https://www.wolfram.com/language).|
+|[Wolfram Language for Jupyter](https://github.com/WolframResearch/WolframLanguageForJupyter)|   | Wolfram Engine, i.e., a Wolfram Desktop or Mathematica installation; `wolframscript` is optional but recommended |  |  |A Jupyter kernel for [the Wolfram Language](https://www.wolfram.com/language) (Mathematica).|
 |[GrADS kernel](https://github.com/ykatsu111/jupyter-grads-kernel)|   | GrADS >= 2.0 |  |  |  |
 |[Bacatá](https://github.com/cwi-swat/bacata)| Jupyter  | Java & [Rascal](https://rascal-mpl.org) | ZeroMQ & Rascal | [Example](https://github.com/maveme/rascal-notebooks-examples) | A Jupyter kernel generator for domain-specific languages. |
 
