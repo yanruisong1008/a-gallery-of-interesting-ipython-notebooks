@@ -83,6 +83,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Web scraping using Python with BeautifulSoup and Requests libraries](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Web_scraping_Rate_My_Professor.ipynb), a notebook which explains scraping the data from the internet from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
 
+* [Exploratory data analysis in Python](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb), a notebook which explains the steps to perform Exploratory data Analysis in python from the scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
+
 * [An introductory notebook on uncertainty quantification and sensitivity analysis](http://nbviewer.jupyter.org/github/lrhgit/uqsa_tutorials/blob/master/index.ipynb) developed for the [Workshop On Uncertainty Quantification And Sensitivity Analysis For
 Cardiovascular Modeling](http://sathercenter.berkeley.edu/peder-sather-grant/2016-grantees/)
 by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Sturdy.
