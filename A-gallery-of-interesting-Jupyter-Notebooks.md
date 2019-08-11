@@ -509,8 +509,9 @@ Note that in the 'collections' section above there are also pandas-related links
 * [Statistical Data Analysis in Python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial), by [Christopher Fonnesbeck](https://github.com/fonnesbeck/), SciPy 2013. Companion videos [1](https://www.youtube.com/watch?v=DXPwSiRTxYY), [2](https://www.youtube.com/watch?v=TGEBpzJUxdI), [3](https://www.youtube.com/watch?v=YZDtBEEZuAk), [4](https://www.youtube.com/watch?v=5_rcdhBXD-0)
 
 ## General Python Programming
+* [Python Strings from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Strings/Strings.ipynb), this notebook explains Python Strings from basic to advance level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python)
 
-* [Python Lists from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Lists.ipynb), this notebook explains Python Lists from basic to advance level with the help of an example, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
+* [Python Lists from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Lists.ipynb), this notebook explains Python Lists from basic to advance level with the help of an example, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python).
 
 * [Learning to code with Python](http://nbviewer.ipython.org/urls/bitbucket.org/amjoconn/watpy-learning-to-code-with-python/raw/3441274a54c7ff6ff3e37285aafcbbd8cb4774f0/notebook/Learn%20to%20Code%20with%20Python.ipynb), part of an [introduction to Python](https://bitbucket.org/amjoconn/watpy-learning-to-code-with-python/src) from the [Waterloo Python users group](http://watpy.ca/blog/post/learn-code-python-review-feb-2013).
 
