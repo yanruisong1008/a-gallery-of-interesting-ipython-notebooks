@@ -511,7 +511,7 @@ Note that in the 'collections' section above there are also pandas-related links
 ## General Python Programming
 * [Python Strings from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Strings/Strings.ipynb), this notebook explains Python Strings from basic to advance level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python)
 
-* [Python Tuples from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Tuples/Tuples.ipynb), this notebook explains Python Tuples from basic to advance level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python)
+* [Python Tuples from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Tuples/%20Tuples.ipynb), this notebook explains Python Tuples from basic to advance level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python)
 
 * [Python Lists from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Lists.ipynb), this notebook explains Python Lists from basic to advance level with the help of an example, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python).
 
