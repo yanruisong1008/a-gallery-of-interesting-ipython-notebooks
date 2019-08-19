@@ -488,7 +488,7 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 Note that in the 'collections' section above there are also pandas-related links, such as the one for an [11-lesson tutorial](https://bitbucket.org/hrojas/learn-pandas).
 
-* [Python Pandas DataFrame Basics](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Pandas_DataFrame.ipynb), this notebook explains the basic concepts of pandas data frame from scratch for beginners with examples, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
+* [Python Pandas DataFrame Basics](https://github.com/Tanu-N-Prabhu/Python/blob/master/Pandas/%20Pandas_DataFrame.ipynb), this notebook explains the basic concepts of a pandas data frame from scratch for beginners with examples, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
 
 * [A 10-minute whirlwind tour of pandas](http://nbviewer.ipython.org/gist/wesm/4757075/PandasTour.ipynb), this is the notebook accompanying a [video presentation](http://vimeo.com/59324550) by Wes McKinney, author of Pandas and the [Python for Data Analysis](http://www.amazon.com/Python-Data-Analysis-Wes-McKinney/dp/1449319793) book.
 
