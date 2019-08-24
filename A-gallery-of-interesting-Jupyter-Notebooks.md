@@ -480,6 +480,8 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 * [Python Programming for the Humanities](http://fbkarsdorp.github.io/python-course/) by Folgert Karsdorp & Maarten van Gompel.
 * [News Categorization using Multinomial Naive Bayes](http://nbviewer.jupyter.org/github/andressotov/News-Categorization-MNB/blob/master/News_Categorization_MNB%2010-oct-2017.ipynb) by Andres Soto Villaverde.
 * [Using random cross-validation for news categorization](http://nbviewer.jupyter.org/github/andressotov/rnd_cross_valid/blob/master/Using%20random%20cross-validation%20for%20news%20categorization.ipynb) by Andres Soto Villaverde.
+* [Named Entity Recognition in French biomedical text](https://nbviewer.jupyter.org/github/andressotov/Named-Entity-Recognition-in-French-biomedical-text/blob/master/Named%20Entity%20Recognition%20in%20French%20biomedical%20text.ipynb) by Andrés Soto Villaverde
+* [Named Entity Recognition in French biomedical text (Part 2)](https://nbviewer.jupyter.org/github/andressotov/Named-Entity-Recognition-in-French-biomedical-text/blob/master/Named%20Entity%20Recognition%20in%20French%20biomedical%20text%20Part%202.ipynb) by Andrés Soto Villaverde
 
 
 
