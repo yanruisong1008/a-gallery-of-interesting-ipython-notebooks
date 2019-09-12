@@ -137,6 +137,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Wolfram Language for Jupyter](https://github.com/WolframResearch/WolframLanguageForJupyter)|   | Wolfram Engine, i.e., a Wolfram Desktop or Mathematica installation; `wolframscript` is optional but recommended |  |  |A Jupyter kernel for [the Wolfram Language](https://www.wolfram.com/language) (Mathematica).|
 |[GrADS kernel](https://github.com/ykatsu111/jupyter-grads-kernel)|   | GrADS >= 2.0 |  |  |  |
 |[Bacatá](https://github.com/cwi-swat/bacata)| Jupyter  | Java & [Rascal](https://rascal-mpl.org) | ZeroMQ & Rascal | [Example](https://github.com/maveme/rascal-notebooks-examples) | A Jupyter kernel generator for domain-specific languages. |
+|[nelu-kernelu](https://github.com/3Nigma/nelu-kernelu)| Jupyter  | NodeJs 12 | [NodeJs 12.3+](https://nodejs.org/dist/latest-v12.x/docs/api/) | [Examples](https://github.com/3Nigma/nelu-kernelu/blob/master/nbs/nk-features.ipynb) | An advanced NodeJs Jupyter kernel supporting comms and displays among other things. |
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
