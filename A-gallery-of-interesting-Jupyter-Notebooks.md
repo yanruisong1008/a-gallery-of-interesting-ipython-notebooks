@@ -81,6 +81,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 ### Statistics, Machine Learning, and Data Science
 
+* [Predicting PewDiePie's daily subscribers using Linear Regression](https://github.com/Tanu-N-Prabhu/Python/blob/master/Predicting_PewDiePie's_daily_subscribers_using_Machine_Learning_.ipynb), a notebook which explains implementation of Linear Regression from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95). 
+
 * [Web scraping using Python with BeautifulSoup and Requests libraries](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Web_scraping_Rate_My_Professor.ipynb), a notebook which explains scraping the data from the internet from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
 
 * [Exploratory data analysis in Python](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb), a notebook which explains the steps to perform Exploratory data Analysis in python from the scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
