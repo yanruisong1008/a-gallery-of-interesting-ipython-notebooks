@@ -81,7 +81,9 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 ### Statistics, Machine Learning, and Data Science
 
-* [Predicting PewDiePie's daily subscribers using Linear Regression](https://github.com/Tanu-N-Prabhu/Python/blob/master/Predicting_PewDiePie's_daily_subscribers_using_Machine_Learning_.ipynb), a notebook which explains implementation of Linear Regression from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95). 
+* [Predicting PewDiePie's daily subscribers using Linear Regression](https://github.com/Tanu-N-Prabhu/Python/blob/master/Predicting_PewDiePie's_daily_subscribers_using_Machine_Learning_.ipynb), a notebook which explains the implementation of Linear Regression from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95). 
+
+* [Top Python Libraries Used In Data Science](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb), this notebook explain the important library used in data science, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
 
 * [Web scraping using Python with BeautifulSoup and Requests libraries](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Web_scraping_Rate_My_Professor.ipynb), a notebook which explains scraping the data from the internet from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
 
