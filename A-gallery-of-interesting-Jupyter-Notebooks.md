@@ -515,6 +515,9 @@ Note that in the 'collections' section above there are also pandas-related links
 * [Statistical Data Analysis in Python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial), by [Christopher Fonnesbeck](https://github.com/fonnesbeck/), SciPy 2013. Companion videos [1](https://www.youtube.com/watch?v=DXPwSiRTxYY), [2](https://www.youtube.com/watch?v=TGEBpzJUxdI), [3](https://www.youtube.com/watch?v=YZDtBEEZuAk), [4](https://www.youtube.com/watch?v=5_rcdhBXD-0)
 
 ## General Python Programming
+
+* [How_to_get_started_coding_in_Python?](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb), this notebook explains how to become a good python programmer, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95)
+
 * [Python Strings from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Strings/Strings.ipynb), this notebook explains Python Strings from basic to advance level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python)
 
 * [Python Tuples from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Tuples/%20Tuples.ipynb), this notebook explains Python Tuples from basic to advance level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python)
