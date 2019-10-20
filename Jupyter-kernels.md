@@ -14,7 +14,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IPyKernel](https://github.com/ipython/ipykernel)|Jupyter 4.0|python 2.7, >= 3.3|pyzmq|||
 |[IJulia](https://github.com/JuliaLang/IJulia.jl)||julia >= 0.3||||
 |[IHaskell](https://github.com/gibiansky/IHaskell)||ghc >= 7.6|||[Demo](https://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)|
-|[IRuby](https://github.com/SciRuby/iruby)||ruby >= 2.1||||
+|[IRuby](https://github.com/SciRuby/iruby)||ruby >= 2.3||||
 |[IJavascript](https://github.com/n-riesco/ijavascript)||nodejs >= 0.10||||
 |[jpCoffeescript](https://github.com/n-riesco/jp-coffeescript)||coffeescript >= 1.7||||
 |[jp-LiveScript](https://github.com/p2edwards/jp-livescript)||livescript >= 1.5|||Based on IJavascript and jpCoffeescript|
