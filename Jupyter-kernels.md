@@ -6,6 +6,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 
 |Name| Jupyter/IPython Version | Language(s) Version | 3rd party dependencies | Example Notebooks | Notes |
 |----|-------------------------|---------------------|------------------------|-------------------|-------|
+|[Agda kernel](https://github.com/lclem/agda-kernel) | | 2.6.0 | | https://mybinder.org/v2/gh/lclem/agda-kernel/master?filepath=example/LabImp.ipynb | |
 |[Dyalog Jupyter Kernel](https://github.com/Dyalog/dyalog-jupyter-kernel)| |APL (Dyalog)|[Dyalog](https://www.dyalog.com/download-zone.htm) >= 15.0|[Notebooks](https://github.com/Dyalog/dyalog-jupyter-notebooks)|Can also be run on [TryAPL](https://tryapl.org/)'s Learn tab|
 |[Coarray-Fortran](https://github.com/sourceryinstitute/jupyter-CAF-kernel)|Jupyter 4.0|Fortran 2008/2015|GFortran >= 7.1, [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays), [MPICH](https://mpich.org) >= 3.2|[Demo](https://nbviewer.jupyter.org/github/sourceryinstitute/jupyter-CAF-kernel/blob/master/index.ipynb), [Binder demo](https://beta.mybinder.org/v2/gh/sourceryinstitute/jupyter-CAF-kernel/master?filepath=index.ipynb)|[Docker image](https://hub.docker.com/r/sourceryinstitute/jupyter-caf-kernel/)|
 | [Ansible Jupyter Kernel](https://github.com/ansible/ansible-jupyter-kernel) | Jupyter 5.6.0.dev0 | Ansible 2.x | | [Hello World](https://github.com/ansible/ansible-jupyter-kernel/blob/master/notebooks/HelloWorld.ipynb) | |
