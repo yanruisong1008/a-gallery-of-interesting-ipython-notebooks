@@ -140,6 +140,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Bacatá](https://github.com/cwi-swat/bacata)| Jupyter  | Java & [Rascal](https://rascal-mpl.org) | ZeroMQ & Rascal | [Example](https://github.com/maveme/rascal-notebooks-examples) | A Jupyter kernel generator for domain-specific languages. |
 |[nelu-kernelu](https://github.com/3Nigma/nelu-kernelu)| Jupyter  | NodeJs 12 | [NodeJs 12.3+](https://nodejs.org/dist/latest-v12.x/docs/api/) | [Examples](https://github.com/3Nigma/nelu-kernelu/blob/master/nbs/nk-features.ipynb) | An advanced NodeJs Jupyter kernel supporting comms and displays among other things. |
 |[IPolyglot](https://github.com/hpi-swa/ipolyglot)| Jupyter | [JavaScript, Ruby, Python, R, and more](https://www.graalvm.org/docs/reference-manual/polyglot/) | [GraalVM](https://www.graalvm.org/) | [Example Polyglot Notebook](https://github.com/hpi-swa/ipolyglot/blob/master/demo/polyglot-notebook.ipynb) | [Dockerfile](https://github.com/hpi-swa/ipolyglot/blob/master/Dockerfile) |
+| [Emu86 Kernel](https://github.com/gcallah/Emu86/tree/master/kernels) | Jupyter | Intel Assembly Language | |  | |
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
