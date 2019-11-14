@@ -16,7 +16,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IJulia](https://github.com/JuliaLang/IJulia.jl)||julia >= 0.3||||
 |[IHaskell](https://github.com/gibiansky/IHaskell)||ghc >= 7.6|||[Demo](https://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)|
 |[IRuby](https://github.com/SciRuby/iruby)||ruby >= 2.3||||
-|[tslab](https://github.com/yunabe/tslab)||Typescript 3.7.2, JavaScript ESNext|Node.js|[Examples](https://github.com/yunabe/tslab/blob/master/README.md#example-notebooks)|[npm](https://www.npmjs.com/package/tslab)|
+|[tslab](https://github.com/yunabe/tslab)||Typescript 3.7.2, JavaScript ESNext|Node.js|[Example notebooks](https://github.com/yunabe/tslab/blob/master/README.md#example-notebooks)|[Jupyter kernel for JavaScript and TypeScript](https://github.com/yunabe/tslab) - [npm](https://www.npmjs.com/package/tslab)|
 |[IJavascript](https://github.com/n-riesco/ijavascript)||nodejs >= 0.10||||
 |[ITypeScript](https://github.com/nearbydelta/itypescript)||Typescript >= 2.0|Node.js >= 0.10.0|||
 |[jpCoffeescript](https://github.com/n-riesco/jp-coffeescript)||coffeescript >= 1.7||||
