@@ -16,7 +16,9 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IJulia](https://github.com/JuliaLang/IJulia.jl)||julia >= 0.3||||
 |[IHaskell](https://github.com/gibiansky/IHaskell)||ghc >= 7.6|||[Demo](https://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)|
 |[IRuby](https://github.com/SciRuby/iruby)||ruby >= 2.3||||
+|[tslab](https://github.com/yunabe/tslab)||Typescript 3.7.2, JavaScript ESNext|Node.js|[Examples](https://github.com/yunabe/tslab/blob/master/README.md#example-notebooks)|[npm](https://www.npmjs.com/package/tslab)|
 |[IJavascript](https://github.com/n-riesco/ijavascript)||nodejs >= 0.10||||
+|[ITypeScript](https://github.com/nearbydelta/itypescript)||Typescript >= 2.0|Node.js >= 0.10.0|||
 |[jpCoffeescript](https://github.com/n-riesco/jp-coffeescript)||coffeescript >= 1.7||||
 |[jp-LiveScript](https://github.com/p2edwards/jp-livescript)||livescript >= 1.5|||Based on IJavascript and jpCoffeescript|
 |[ICSharp](https://github.com/zabirauf/icsharp)|Jupyter 4.0|C# 4.0+|scriptcs|||
@@ -106,7 +108,6 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[SoS](https://github.com/vatlab/SOS)|Jupyter 4|Python >=3.4|Support kernels for bash, python2/3, matlab/octabe, javascript, julia, R, Stata, SAS, and more|[Examples](http://vatlab.github.io/SOS/#documentation)|Workflow system, Multi-Kernel support|
 |[jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs)|Jupyter, iPython 3.x|NodeJS, Babel, Clojurescript||[Examples](http://nbviewer.jupyter.org/gist/jaredly/404a36306fdee6a1737a)|
 |[Pike](https://github.com/kevinior/jupyter-pike-kernel)|IPython >= 3|Pike >= 7.8|||Wrapper, Based on Bash Kernel|
-|[ITypeScript](https://github.com/nearbydelta/itypescript)||Typescript >= 2.0|Node.js >= 0.10.0|||
 |[imatlab](https://github.com/imatlab/imatlab)|ipykernel >= 4.1|MATLAB >= 2016b||||
 |[jupyter-kotlin](https://github.com/ligee/kotlin-jupyter)|Jupyter|Kotlin 1.1-M04 EAP|Java >= 8|||
 |[jupyter_kernel_singular](https://github.com/sebasguts/jupyter_kernel_singular)|Jupyter|Singular 4.1.0||[Demo](https://github.com/sebasguts/jupyter-singular/blob/master/Demo.ipynb)|Optional PySingular for better performance, surf for images, [details](https://www.singular.uni-kl.de/index.php/graphical-interface.html)|
