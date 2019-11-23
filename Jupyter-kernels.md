@@ -27,10 +27,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[pari_jupyter](https://github.com/jdemeyer/pari_jupyter)|Jupyter 4|PARI/GP >= 2.9||||
 |[IFSharp](https://github.com/fsprojects/IfSharp)|Jupyter 4|F#||[Features](https://github.com/fsprojects/IfSharp/blob/master/FSharp_Jupyter_Notebooks.ipynb)||
 |[lgo](https://github.com/yunabe/lgo)|Jupyter >= 4, JupyterLab|Go >= 1.8|ZeroMQ (4.x)|[Example](http://nbviewer.jupyter.org/github/yunabe/lgo/blob/master/examples/basics.ipynb)|[Docker image](https://hub.docker.com/r/yunabe/lgo/)|
-
 |[iGalileo](https://github.com/cascala/igalileo)|Jupyter >= 4, JupyterLab|Galileo >= 0.1.3|||[Docker image](https://hub.docker.com/r/cascala/igalileo/)|
-
-
 |[gopherlab](https://github.com/fabian-z/gopherlab)|Jupyter 4.1, JupyterLab|Go >= 1.6|ZeroMQ (4.x)|[examples](https://github.com/fabian-z/gopherlab/tree/master/examples)|Deprecated, use gophernotes|
 |[Gophernotes](https://github.com/gopherdata/gophernotes)|Jupyter 4, JupyterLab, nteract|Go >= 1.9|ZeroMQ 4.x.x|[examples](https://github.com/gopherdata/gophernotes/tree/master/examples)|[docker image](https://hub.docker.com/r/dwhitena/gophernotes/)|
 |[IGo](https://github.com/takluyver/igo)||Go >= 1.4|||Unmaintained, use gophernotes|
