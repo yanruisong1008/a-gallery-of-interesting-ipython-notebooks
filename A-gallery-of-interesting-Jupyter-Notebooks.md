@@ -635,6 +635,8 @@ The interactive plotting library [Nyaplot](https://github.com/domitry/nyaplot) h
 
 This section contains academic papers that have been published in the peer-reviewed literature or pre-print sites such as the [ArXiv](http://arxiv.org) that include one or more notebooks that enable (even if only partially) readers to reproduce the results of the publication.  If you include a publication here, please link to the journal article as well as providing the nbviewer notebook link (and any other relevant resources associated with the paper).
 
+1.[Revealing ferroelectric switching character using deep recurrent neural networks (https://www.nature.com/articles/s41467-019-12750-0). [Github page where code is located](https://github.com/jagar2/Revealing-Ferroelectric-Switching-Character-Using-Deep-Recurrent-Neural-Networks). [Jupyter Paper](https://bit.ly/2nCLGDC). [Raw Data](https://doi.org/10.5281/zenodo.1482091)
+
 1. [Discovery of Gravitational Waves by the LIGO collaboration](https://losc.ligo.org/tutorials). That page, from the LIGO Open Science Center, contains multiple notebooks for various datasets corresponding to different events; [this binder](https://github.com/minrk/ligo-binder) lets you run the code right away. More details on the [GW150914](https://losc.ligo.org/events/GW150914) event as well as the original [main Physical Review Letters paper, "Observation of Gravitational Waves from a Binary Black Hole Merger"](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102).
 
 1. [Characterizing Strain Variation in Engineered E. coli Using a Multi-Omics-Based Workflow](http://www.cell.com/cell-systems/fulltext/S2405-4712(16)30112-0), by Brunk et al. 
