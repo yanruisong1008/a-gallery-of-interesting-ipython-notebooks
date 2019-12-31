@@ -631,6 +631,12 @@ The interactive plotting library [Nyaplot](https://github.com/domitry/nyaplot) h
 
 * [Importing IPython Notebooks as Modules](http://nbviewer.ipython.org/gist/6011986) by [Min RK](http://github.com/minrk).
 
+* [Getting Started With Jupyter Notebooks for Teaching and Learning](https://notebooks.azure.com/OUsefulInfo/projects/gettingstarted) by [Tony Hirst at OpenLearn](https://www.open.edu/openlearn/profiles/ajh59)
+
+* Toward Data Science blogs:
+   * [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
+   * [Boosting Your Jupyter Notebook Productivity](https://towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad)
+
 ## Reproducible academic publications
 
 This section contains academic papers that have been published in the peer-reviewed literature or pre-print sites such as the [ArXiv](http://arxiv.org) that include one or more notebooks that enable (even if only partially) readers to reproduce the results of the publication.  If you include a publication here, please link to the journal article as well as providing the nbviewer notebook link (and any other relevant resources associated with the paper).
