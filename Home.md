@@ -5,3 +5,4 @@ Welcome to the **Jupyter** wiki!
 * [[A gallery of interesting Jupyter Notebooks]]
 * [[Jupyter kernels]]
 * [[Jupyter Notebook Server API]]
+* [Other Tutorials & Learning Resources](https://github.com/jupyter/jupyter/wiki/Other-Tutorials-&-Learning-Resources)
