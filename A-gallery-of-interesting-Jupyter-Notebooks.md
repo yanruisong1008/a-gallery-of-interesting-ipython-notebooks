@@ -57,6 +57,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Python Tutorial](https://github.com/rajathkmp/Python-Lectures) by [Rajath Kumar M P](https://github.com/rajathkmp/) 
 
+* [Growing Neat Software Architecture from Jupyter Notebooks](https://www.youtube.com/watch?v=K4QN27IKr0g), a primer by [Guillaume Chevalier](https://github.com/guillaume-chevalier) on how to build clean software using notebooks.
+
 ### Programming and Computer Science
 
 * [Automata and Computability using Jupyter](http://nbviewer.jupyter.org/github/ganeshutah/Jove/blob/master/notebooks/driver/Drive_Jove_Gallery_Examples.ipynb), an entire course, based on forthcoming book published by Taylor and Francis; book title: "Automata and Computability: Programmer's Perspective", by Ganesh Gopalakrishnan, Professor, School of Computing, University of Utah, Salt Lake City. [in English, has Youtube videos]
