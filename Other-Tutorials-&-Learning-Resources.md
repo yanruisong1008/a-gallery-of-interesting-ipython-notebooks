@@ -4,5 +4,5 @@
 
 ## Growing Software Architecture with Notebooks
 
-- [Growing Neat Software Architecture from Jupyter Notebooks](https://www.youtube.com/watch?v=K4QN27IKr0g) - A primer on how to do build software using notebooks. 
+- [Growing Neat Software Architecture from Jupyter Notebooks](https://www.youtube.com/watch?v=K4QN27IKr0g) - A primer on how to build clean software using notebooks.
 - [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Let’s see how to grow a neat software architecture from your notebooks.
