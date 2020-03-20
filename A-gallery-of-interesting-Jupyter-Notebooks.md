@@ -790,4 +790,4 @@ Of course the first thing you might try is searching for videos about IPython (1
 
 ## Software Architecture
 
-* [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Let’s see how to grow a neat software architecture from your notebooks.
+* Let’s see [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks), by [Guillaume Chevalier](https://github.com/guillaume-chevalier).
