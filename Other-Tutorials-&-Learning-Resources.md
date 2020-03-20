@@ -1,5 +1,3 @@
-# Other Tutorials & Learning Resources
-
 ## Using notebooks
 
 - [How To Use Jupyter Notebooks](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks) - Learn about Jupyter Notebooks and how you can use them to run your code.
