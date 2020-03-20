@@ -167,6 +167,10 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [the-elements-of-statistical-learning](https://github.com/maitbayev/the-elements-of-statistical-learning), a collection of notebooks implementing the algorithms, reproducing the graphics found in the book "The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani and Jerome Friedman and summary of the textbook.
 
+* [Classification on raw time series in TensorFlow with a LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition), by [Guillaume Chevalier](https://github.com/guillaume-chevalier).
+
+* [Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow](https://github.com/guillaume-chevalier/seq2seq-signal-prediction), by [Guillaume Chevalier](https://github.com/guillaume-chevalier).
+
 ### Mathematics, Physics, Chemistry, Biology
 
 * A [single-atom laser model](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb). This is one of a complete set of [lectures on quantum mechanics and quantum optics using QuTiP](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures) by [J.R. Johansson](https://github.com/jrjohansson).
