@@ -249,6 +249,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [An introduction to openCV](https://github.com/handee/opencv-gettingstarted) An introduction course into using openCV for computer vision in python
 
+* [Signal: Filtering, STFT, and Laplace Transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) Filtering signal with a butterworth low-pass filter and plotting the STFT of it with a Hanning window and then plotting the Laplace transform.
+
 ### Engineering Education
 
 * [Introduction to Chemical Engineering Analysis](http://jckantor.github.io/CBE20255/) by [Jeff Kantor](http://jckantor.github.io/). A collection of IPython notebooks illustrating topics in introductory chemical engineering analysis, including stoichiometry, generation-consumption analysis, mass and energy balances.
