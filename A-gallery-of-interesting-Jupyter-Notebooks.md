@@ -44,6 +44,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 1. [Whimsical notebooks](#whimsical-notebooks)
 1. [Videos of IPython being used in the wild](#videos-of-ipython-being-used-in-the-wild)
 1. [Accessing an IBM quantum computer via notebooks](#accessing-an-ibm-quantum-computer-via-notebooks)
+1. [Software Architecture](#software-architecture)
 
 ## Entire books or other large collections of notebooks on a topic
 
@@ -786,3 +787,7 @@ Of course the first thing you might try is searching for videos about IPython (1
 
 ## Accessing and programing a IBM quantum computer via notebooks
 * [Github](https://github.com/Qiskit/qiskit-tutorial/blob/master/index.ipynb) notebook example (scroll down) illustrating how to use Qiskit and access the IBMQ quantum computers.
+
+## Software Architecture
+
+* [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Let’s see how to grow a neat software architecture from your notebooks.
