@@ -171,6 +171,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow](https://github.com/guillaume-chevalier/seq2seq-signal-prediction), by [Guillaume Chevalier](https://github.com/guillaume-chevalier).
 
+* A Coding Kata using Notebooks in Google Colab: Achieve [Clean Machine Learning From Dirty Code](https://github.com/Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code).
+
 ### Mathematics, Physics, Chemistry, Biology
 
 * A [single-atom laser model](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb). This is one of a complete set of [lectures on quantum mechanics and quantum optics using QuTiP](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures) by [J.R. Johansson](https://github.com/jrjohansson).
