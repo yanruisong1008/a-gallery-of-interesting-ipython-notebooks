@@ -81,6 +81,15 @@ The schema is [here](https://github.com/jupyter/notebook/blob/master/notebook/se
 | ```GET``` | /api/clusters<br>/\<cluster_id\> | Return model of given cluster. |
 | ```POST``` | /api/clusters<br>/\<cluster_id\>/\<action\> | Perform action with given clusters. Valid actions are "start" or "stop" |
 
+### Terminals API
+
+| HTTP verb | URL | Action |
+|:---:|:---:|:---|
+| ```GET``` | /api/terminals | Return open terminals. |
+| ```POST``` | /api/terminals | Create a new terminal. |
+| ```GET``` | /api/terminals<br>/\<terminal_name\> | Return terminal with given name. |
+| ```DELETE``` | /api/terminals<br>/\<terminal_name\> | Terminate terminal with given name. |
+
 ## Old Architecture ##
 
 This chart shows the web-services in the single directory Jupyter notebook. 
