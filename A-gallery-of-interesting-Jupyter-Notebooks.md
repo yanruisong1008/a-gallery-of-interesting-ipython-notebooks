@@ -217,6 +217,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Materials Science in Python using pymatgen](http://matgenb.materialsvirtuallab.org/).  A series of python notebooks using the [pymatgen](http://pymatgen.org/) package and [materials project](http://materialsproject.org) API for materials science.
 
+* [Applied Elasticity](https://github.com/jeevanjyoti4/elasticity): A collection of notebooks used to determine solutions to some classical 2D elasticity problems. These were mostly live coded during class hours by [Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti) as part of the course "Applied Elasticity" in the Mechanical Engineering Department of the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/). 
+
 ### Earth Science and Geo-Spatial data
 
 * [EarthPy](http://earthpy.org), a collection of IPython notebooks with a focus on Earth Sciences, from [whale tracks](http://earthpy.org/analyzing-whale-tracks.html) to the [flow of the Amazon](http://earthpy.org/earthpy-basemap-amazon.html).
