@@ -144,6 +144,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IPolyglot](https://github.com/hpi-swa/ipolyglot)| Jupyter | [JavaScript, Ruby, Python, R, and more](https://www.graalvm.org/docs/reference-manual/polyglot/) | [GraalVM](https://www.graalvm.org/) | [Example Polyglot Notebook](https://github.com/hpi-swa/ipolyglot/blob/master/demo/polyglot-notebook.ipynb) | [Dockerfile](https://github.com/hpi-swa/ipolyglot/blob/master/Dockerfile) |
 | [Emu86 Kernel](https://github.com/gcallah/Emu86/tree/master/kernels) | Jupyter | Intel Assembly Language |  | [Introduction to Intel Assembly Language Tutorial](https://github.com/gcallah/Emu86/blob/master/kernels/Introduction%20to%20Assembly%20Language%20Tutorial.ipynb) | |
 |[Common Workflow Language (CWL) Kernel](https://github.com/giannisdoukas/CWLJNIKernel)|  | v1.0 |  | [examples directory](https://github.com/giannisdoukas/CWLJNIKernel/blob/master/examples/) | under development |
+|[MIPS Jupyter Kernel](https://github.com/epalmese/MIPS-jupyter-kernel)|Jupyter|MIPS32 Assembly Language|Python3, [SPIM](http://spimsimulator.sourceforge.net/)|[Example](https://github.com/epalmese/MIPS-jupyter-kernel/blob/master/kernel/test.ipynb)|Driven by Python3 and Pexpect|
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
