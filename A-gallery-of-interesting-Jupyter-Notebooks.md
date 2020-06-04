@@ -100,6 +100,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Data Cleaning using Python with Pandas Library](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Data_Cleaning/Data_Cleaning_using_Python_with_Pandas_Library.ipynb), a Date Science notebook which clearly explains Data Cleaning using Python with Pandas Library at a beginner level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
 
+* [Social Network Analysis: From Graph Theory to Applications with Python](https://github.com/dimgold/pycon_social_networkx). A tutorial on network creation, analysis, information flow and influence maximization with [Networkx](https://networkx.github.io/) by [Dima Goldenberg](https://github.com/dimgold).
+
 * ["ISP": Introduction to Statistics with Python](https://github.com/thomas-haslwanter/statsintro_python), a collection of notebooks accompanying the [book of the same name](http://www.springer.com/us/book/9783319283159), by [Thomas Haslwanter](http://work.thaslwanter.at).
 
 * [Notebooks for the exercises in Andrew Ng's online ML course, Spark and TensorFlow](https://github.com/jdwittenauer/ipython-notebooks), as well as extra material on other tools from the scipy stack, by [John Wittenauer](https://github.com/jdwittenauer).
