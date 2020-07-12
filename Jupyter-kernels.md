@@ -83,6 +83,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[IBrainfuck](https://github.com/robbielynch/ibrainfuck)||Brainfuck||[Example](https://github.com/robbielynch/ibrainfuck/blob/master/notebooks/a-brief-look-at-brainfuck.ipynb)|Wrapper|
 |[KDB+/Q Kernel (IKdbQ)](https://github.com/jvictorchen/IKdbQ)|IPython >= 3.1|Q|qzmq, qcrypt|||
 |[KDB+/Q Kernel (KdbQ Kernel)](https://github.com/newtux/KdbQ_kernel)|Jupyter|Q||||
+|[PyQ Kernel](https://pypi.org/project/pyq-kernel)|Jupyter|Q||[Python for kdb+](https://pyq.enlnt.com/pyq-2017)||
 |[ICryptol](https://github.com/GaloisInc/ICryptol)||Cryptol|CVC4|||
 |[cling](https://github.com/root-mirror/cling)|Jupyter 4|C++||[Example](https://github.com/root-mirror/cling/blob/master/tools/Jupyter/kernel/cling.ipynb)||
 |[xeus-cling](https://github.com/QuantStack/xeus-cling)|Jupyter >= 5.1|C++||[Example](https://github.com/QuantStack/xeus-cling/tree/master/notebooks)|Supports Jupyter widgets|
