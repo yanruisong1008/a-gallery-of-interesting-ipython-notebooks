@@ -138,6 +138,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [The Kaggle bulldozers competition example](http://danielfrg.github.io/blog/2013/03/07/kaggle-bulldozers-basic-cleaning), one of a set on tutorials on exploratory data analysis with the [copper toolkit](https://github.com/danielfrg/copper#copper) by [Daniel Rodríguez](http://danielfrg.github.io)/
 
+* [The Collapse of Bubble Near a Wall](https://github.com/dmnguyen92/The-collapse-of-bubble-near-a-wall): This notebook solve the Rayleigh–Plesset equation to explain captured images of the collapse of a bubble near a solid boundary.
+
 * [Understanding model reliability](http://nbviewer.ipython.org/github/mwaskom/Psych216/blob/master/week6_tutorial.ipynb), part of a complete [course on statistics and data analysis for psychologists](https://github.com/mwaskom/Psych216) by [Michael Waskom](https://github.com/mwaskom).
 
 * [Graphical Representations of Linear Models](http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/linear_models.ipynb), an illustration of the [Seaborn statistical visualization library](https://github.com/mwaskom/seaborn), that also includes [Visualizing distributions of data](http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/plotting_distributions.ipynb) and [Representing variability in timeseries plots](http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/timeseries_plots.ipynb). By [Michael Waskom](https://github.com/mwaskom).
@@ -223,7 +225,6 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Applied Elasticity](https://github.com/jeevanjyoti4/elasticity): A collection of notebooks used to determine solutions to some classical 2D elasticity problems. These were mostly live coded during class hours by [Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti) as part of the course "Applied Elasticity" in the Mechanical Engineering Department of the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/). 
 
-* [The collapse of bubble near a wall](https://github.com/dmnguyen92/The-collapse-of-bubble-near-a-wall): This notebook solve the Rayleigh–Plesset equation to explain captured images of the collapse of a bubble near a solid boundary.
 
 ### Earth Science and Geo-Spatial data
 
