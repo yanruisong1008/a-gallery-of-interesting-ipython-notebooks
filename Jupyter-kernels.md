@@ -111,7 +111,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs)|Jupyter, iPython 3.x|NodeJS, Babel, Clojurescript||[Examples](http://nbviewer.jupyter.org/gist/jaredly/404a36306fdee6a1737a)|
 |[Pike](https://github.com/kevinior/jupyter-pike-kernel)|IPython >= 3|Pike >= 7.8|||Wrapper, Based on Bash Kernel|
 |[imatlab](https://github.com/imatlab/imatlab)|ipykernel >= 4.1|MATLAB >= 2016b||||
-|[jupyter-kotlin](https://github.com/Kotlin/kotlin-jupyter)|Jupyter|Kotlin 1.4.20-dev-*** DEV|Java >= 8|||
+|[jupyter-kotlin](https://github.com/Kotlin/kotlin-jupyter)|Jupyter|Kotlin 1.4.20-dev-*** DEV|Java >= 8||[Samples](https://mybinder.org/v2/gh/kotlin/kotlin-jupyter/master?filepath=samples)|
 |[jupyter_kernel_singular](https://github.com/sebasguts/jupyter_kernel_singular)|Jupyter|Singular 4.1.0||[Demo](https://github.com/sebasguts/jupyter-singular/blob/master/Demo.ipynb)|Optional PySingular for better performance, surf for images, [details](https://www.singular.uni-kl.de/index.php/graphical-interface.html)|
 |[spylon-kernel](https://github.com/maxpoint/spylon-kernel)|ipykernel >=4.5|python >= 3.5, scala >= 2.11|Apache Spark >=2.0|[Example](https://github.com/maxpoint/spylon-kernel/blob/master/examples/basic_example.ipynb)|MetaKernel|
 |[mit-scheme-kernel](https://github.com/joeltg/mit-scheme-kernel)|Jupyter 4.0|MIT Scheme 9.2||||
