@@ -6,6 +6,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 
 |Name| Jupyter/IPython Version | Language(s) Version | 3rd party dependencies | Example Notebooks | Notes |
 |----|-------------------------|---------------------|------------------------|-------------------|-------|
+|[Micronaut](https://github.com/stainlessai/jupyter-micronaut)||Python>=3.7.5, Groovy>3|[Micronaut](https://micronaut.io/)|https://github.com/stainlessai/micronaut-jupyter/blob/master/examples/basic-service/notebooks/use-library.ipynb|Compatible with [BeakerX](http://beakerx.com)|
 |[Agda kernel](https://github.com/lclem/agda-kernel) | | 2.6.0 | | https://mybinder.org/v2/gh/lclem/agda-kernel/master?filepath=example/LabImp.ipynb | |
 |[Dyalog Jupyter Kernel](https://github.com/Dyalog/dyalog-jupyter-kernel)| |APL (Dyalog)|[Dyalog](https://www.dyalog.com/download-zone.htm) >= 15.0|[Notebooks](https://github.com/Dyalog/dyalog-jupyter-notebooks)|Can also be run on [TryAPL](https://tryapl.org/)'s Learn tab|
 |[Coarray-Fortran](https://github.com/sourceryinstitute/jupyter-CAF-kernel)|Jupyter 4.0|Fortran 2008/2015|GFortran >= 7.1, [OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays), [MPICH](https://mpich.org) >= 3.2|[Demo](https://nbviewer.jupyter.org/github/sourceryinstitute/jupyter-CAF-kernel/blob/master/index.ipynb), [Binder demo](https://beta.mybinder.org/v2/gh/sourceryinstitute/jupyter-CAF-kernel/master?filepath=index.ipynb)|[Docker image](https://hub.docker.com/r/sourceryinstitute/jupyter-caf-kernel/)|
