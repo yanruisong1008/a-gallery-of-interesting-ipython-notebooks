@@ -432,6 +432,8 @@ Joe McCarthy](http://interrelativity.com/joe).
 
 * [Fixed Income: A Structured Bond- Interactive scenarios ](http://nbviewer.jupyter.org/github/MatsGustavsson/finance-jupyter/blob/2b5c1458b0e9b9c299fe25590566814e92287a1c/SequentialStructure.ipynb), Sequential repayment of a bond using interactive widgets and Python in Jupyter, by [Mats Gustavsson](https://github.com/MatsGustavsson).
 
+* [Backtesting forex trading strategy based on machine learning models](https://nbviewer.jupyter.org/github/kernc/backtesting.py/blob/master/doc/examples/Trading%20with%20Machine%20Learning.ipynb). The contrived example uses simple kNN model from [scikit-learn](https://scikit-learn.org/), and [backtesting.py](https://kernc.github.io/backtesting.py/) for the actual backtest/visualization.
+
 ### Earth science and geo-spatial data
 * [Exploring seafloor habitats: geographic analysis using IPython Notebook with GRASS & R](http://nbviewer.ipython.org/gist/7598354). This embeds a slideshow and a Web Spinning Globe (Cesium) in the notebook.  By Massimo Di Stefano.
 
