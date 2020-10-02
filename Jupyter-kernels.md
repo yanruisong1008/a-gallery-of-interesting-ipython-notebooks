@@ -97,7 +97,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[Calysto LC3](https://github.com/Calysto/calysto_lc3)|||||Assembly Language for the [Little Computer 3](https://en.wikipedia.org/wiki/LC-3)|
 |[Yacas](https://github.com/grzegorzmazur/yacas_kernel)||YACAS||||
 |[IJython](https://github.com/suvarchal/IJython)||Jython 2.7||||
-|[ROOT](https://github.com/root-mirror/root/tree/master/bindings/pyroot/JupyROOT)|Jupyter|C++/python|ROOT >= 6.05|||
+|[ROOT](https://github.com/root-project/root/tree/master/bindings/jupyroot)|Jupyter|C++/python|ROOT >= 6.05|||
 |[Gnuplot Kernel](https://github.com/has2k1/gnuplot_kernel)||Gnuplot||[Example](https://github.com/has2k1/gnuplot_kernel/tree/master/examples)|MetaKernel|
 |[Tcl](https://github.com/rpep/tcl_kernel)|Jupyter|Tcl 8.5|||Based on Bash Kernel|
 |[J](https://github.com/martin-saurer/jkernel)|Jupyter Notebook/Lab|J 805-807 (J901beta)||[Examples](https://github.com/martin-saurer/jkernel)||
